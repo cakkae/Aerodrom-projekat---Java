@@ -1,0 +1,2 @@
+,New York,,Airbus A350,fsaf
+,Moskva,fasf,Airbus A380,fsaf
